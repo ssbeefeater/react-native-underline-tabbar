@@ -1,10 +1,3 @@
-/**
- * Created by Konstantin Yakushin.
- * react-native-underline-tabbar
- */
-import type TabBar, { TabType, Props} from './lib/TabBar';
-
-export type TabType;
-export type Props;
+import TabBar from './lib/TabBar';
 
 export default TabBar;
